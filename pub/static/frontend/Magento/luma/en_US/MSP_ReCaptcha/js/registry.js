@@ -1,0 +1,1 @@
+/home/hoang/magento/vendor/msp/recaptcha/view/frontend/web/js/registry.js
